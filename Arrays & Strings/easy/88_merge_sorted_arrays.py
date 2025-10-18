@@ -1,5 +1,5 @@
 """
-Problem: Merge Sorted Arrays
+Problem: Merge Sorted Arrays & Strings
 Link: https://leetcode.com/problems/merge-sorted-array
 Pattern: Two pointers
 Difficulty: Easy
